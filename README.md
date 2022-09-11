@@ -15,3 +15,4 @@ A Program that makes call to iTunes to retrieve specific song list and on clicki
 # Limitations
 1. Work regarding the playlist has to be done
 2. Since iTunes API offers sample only 30 seconds of song can be played 
+3. Currently working on better structuring of folders
