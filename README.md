@@ -10,9 +10,10 @@ A Program that makes call to iTunes to retrieve specific song list and on clicki
 # How does it work
 1. Once the window opens you can see a search box and button on your screen
 2. Upon inserting some value in search box and clicking the submit button you will see the results in table
-3. On clicking any row in the table you will be able to play the song pon the top right if using on desktop
+3. On Double Clicking any row in the table you will be able to play the song visible on the top right if using on desktop
+4. Double Clicking any row or any song in play queue will start the queue
 
 # Limitations
-1. Work regarding the playlist has to be done
-2. Since iTunes API offers sample only 30 seconds of song can be played 
-3. Currently working on better structuring of folders
+1. Since iTunes API offers sample only 30 seconds of song can be played 
+2. Currently working on better structuring of folders
+3. Currently working on deletion of songs from queue
